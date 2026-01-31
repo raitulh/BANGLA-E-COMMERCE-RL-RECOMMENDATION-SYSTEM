@@ -1,0 +1,5 @@
+{
+  "name": "AmarRec - Bangla RL Recommendation Engine",
+  "description": "A production-ready Reinforcement Learning powered recommendation system for Bangla e-commerce platforms, featuring real-time learning, bilingual support, and advanced analytics.",
+  "requestFramePermissions": []
+}
